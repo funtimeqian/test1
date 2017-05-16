@@ -8,3 +8,4 @@ Git tracks changes.
 测试是否将最新修改推送至github
 the second test update
 Creating a new branch is quick AND simple.
+add merge.
