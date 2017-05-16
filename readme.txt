@@ -9,3 +9,4 @@ Git tracks changes.
 the second test update
 Creating a new branch is quick AND simple.
 add merge.
+test stash ~~~
